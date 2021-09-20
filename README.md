@@ -1,2 +1,2 @@
 # Python-Practice
-Some description
+Some description goes here - practice.
