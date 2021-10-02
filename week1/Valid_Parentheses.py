@@ -24,5 +24,5 @@ class Solution:
 
 
 test = Solution()
-print(test.isValid("[(){}]"))
+print(test.isValid("[()({})]"))
 
